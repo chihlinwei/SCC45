@@ -1,0 +1,10 @@
+{
+    "type": [
+        2,
+        2
+    ],
+    "data": [
+        "\nR version 4.0.1 (2020-06-06) -- \"See Things Now\"\nCopyright (C) 2020 The R Foundation for Statistical Computing\nPlatform: x86_64-w64-mingw32/x64 (64-bit)\n\nR 是免費軟體，不提供任何擔保。\n在某些條件下您可以將其自由散布。\n用 'license()' 或 'licence()' 來獲得散布的詳細條件。\n\nR 是個合作計劃，有許多人為之做出了貢獻。\n用 'contributors()' 來看詳細的情況並且\n用 'citation()' 會告訴您如何在出版品中正確地參照 R 或 R 套件。\n\n用 'demo()' 來看一些示範程式，用 'help()' 來檢視線上輔助檔案，或\n用 'help.start()' 透過 HTML 瀏覽器來看輔助檔案。\n用 'q()' 離開 R。\n\n",
+        "\nRestarting R session...\n\n"
+    ]
+}
